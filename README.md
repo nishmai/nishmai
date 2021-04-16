@@ -10,6 +10,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Real time data science projects
 - 🤔 I’m looking for help with R
 - 💬 Ask me about anything
-- 📫 How to reach me: [email](mailto: nvadlamudi@murraystate.edu)
+- 📫 How to reach me:[Email](mailto:nvadlamudi@murraystate.edu "Email")
 - 😄 Pronouns: she/ her
-- ⚡ Fun fact: God is crazy dude, the sky is pink
+- ⚡ Fun fact: God is crazy dude, the sky is pink 😂
