@@ -32,8 +32,7 @@ Here are some ideas to get you started:
 <!-- Programming languages -->
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/python/python.png" />
 
-
-
+<br />
 
 ### Github stats
 <img align="left" alt="nishmai's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nishmai&show_icons=true&hide_border=false&theme=dark" />
